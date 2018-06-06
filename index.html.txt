@@ -1,6 +1,0 @@
-<html>
-<body>
-<h1>Whassaaap</h1>
-<li>peeeps<\li>
-</body>
-</html>
